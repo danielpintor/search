@@ -34,26 +34,20 @@
         "category": "apparel"
       },
       {
-        "id": "GGOEYXXX0938",
-        "name": "YouTube Icon Pullover Black",
-        "description": "This YouTube pullover hoodie will keep you warm while looking stylish with the tone on tone logo.",
-        "features": "<p>8oz. 52% Cotton. 48% Polyester. Fleece</p>\n<p>Kangaroo pocket</p>\n<p>Matching drawcords</p>\n<p>",
-        "price": "59.99",
-        "keywords": "YouTube Icon Pullover Black, pullover, hoodie",
-        "url": "YouTube+Icon+Pullover+Black",
-        "category": "apparel",
-        "subcategory": "apparel"
+        "id": "AI82432",
+        "name": "Apple iPhone 32 Pro Max- Olive Green - 256GB",
+        "description": "Extreme performance, modern design, perfect simplicity",
+        "price": "1299.99",
+        "keywords": "apple, apple iphone, olive green iphone, 256gb, premium, smartphone, iphone pro max",
+        "category": "electronics"
       },
       {
-        "id": "GGOEYXXX0937",
-        "name": "YouTube Wordmark Crew Grey",
-        "description": "Kick back and relax in this comfortable YouTube sweatshirt. Unisex sizing.",
-        "features": "<p>Unisex sizing</p>\n<p>Raglan sleeves</p>\n<p>1x1 ribbed cuffs and waistband inch</p>",
-        "price": "51.99",
-        "keywords": "YouTube Wordmark Crew Grey, YouTube, sweatshirt",
-        "url": "YouTube+Wordmark+Crew+Grey",
-        "category": "apparel",
-        "subcategory": "apparel"
+        "id": "GP43518",
+        "name": "Google Pixel 18",
+        "description": "The latest Google Pixel with the best camera yet.",
+        "price": "799.99",
+        "keywords": "google, google pixel, pixel, 18, smartphone",
+        "category": "electronics"
       }
     ]
 }
