@@ -7,29 +7,23 @@
         "description": "Great Value satisfaction guaranteed! Reliable performance you can depend on.",
         "price": "84.99",
         "keywords": "car battery, lead acid battery, sedan battery, truck battery, economy, affordable, great value, auto",
-        "category": "auto",
+        "category": "auto"
       },
       {
-        "id": "GGOEGHBL101999",
-        "name": "Google Twill Sandwich Cap Navy",
-        "description": "This Google Twill Sandwich Cap will not only keep the sun out of your eyes but will also keep you looking stylish.",
-        "features": "<p>Low profile</p>\n<p>Color sandwich bill</p>\n<p>Adjustable velcro closure</p>\n<p>One size fits most</p>",
-        "price": "12.99",
-        "keywords": "Google Twill Sandwich Cap Navy, cap",
-        "url": "Google+Twill+Sandwich+Cap+Navy",
-        "category": "apparel",
-        "subcategory": "apparel"
+        "id": "GYTBS16",
+        "name": "Goodyear TrailBlazer Premium Tire (16 in)",
+        "description": "Forge your own path with all-new TrailBlazer tires from Goodyear",
+        "price": "179.99",
+        "keywords": "goodyear, trailblazer, trail blazer, premium, tires, 16 inches, 16 in, auto",
+        "category": "auto"
       },
       {
-        "id": "GGOEYDHB098499",
-        "name": "YouTube 25 oz Gear Cap Bottle Black",
-        "description": "Take your favorite hot or cold drink anywhere with this YouTube 25oz Gear Cap Bottle. The carrying handle lid makes it convenient to take with you to your next meeting or workout.",
-        "features": "<p>25 oz. Powder coated</p>\n<p>Stainless Steel</p>\n<p>Copper vacuum insulation</p>\n<p>Threaded gear-shaped insulated lid</p>\n<p>Carrying handle</p>",
-        "price": "26.99",
-        "keywords": "YouTube 25 oz Gear Cap Bottle Black, bottle",
-        "url": "YouTube+25oz+Gear+Cap+Bottle+Black",
-        "category": "drinkware",
-        "subcategory": "drinkware"
+        "id": "NB127664",
+        "name": "Nike Hat - Black",
+        "description": "Understated yet fashonable",
+        "price": "22.99",
+        "keywords": "nike, black, hat, nike hat, black hat, nike logo",
+        "category": "apparel"
       },
       {
         "id": "GGOEYHBB102199",
