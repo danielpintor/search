@@ -10,9 +10,9 @@ public class ProductController {
 	private ProductService ps;
   
   @GetMapping("/search")
-	public ResponseEntity<List<Product>> getAllProducts(){
+	public ResponseEntity<List<Product>> getProducts(){
 			List<Product> products = new ArrayList<Product>();
-			return new ResponseEntity<>(ps.listAll(),HttpStatus.OK); //Shall return products with the keyword "apple"
+			return new ResponseEntity<>(ps.list("apple"),HttpStatus.OK); //Shall return products with the keyword "apple"
 		
 	}
 }
